@@ -7,19 +7,9 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-✪ ωεℓ¢σмє ƒσя 𝚍𝚊𝚡𝚡 яєρσѕ ✪
- 
- ➲ ᴀʟʟ ʀᴇᴘᴏ ᴇᴀsɪʟʏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ ᴡɪᴛʜᴏᴜᴛ ᴀɴʏ ᴇʀʀᴏʀ ✰
- 
- ➲ ɴᴏ ʜᴇʀᴏᴋᴜ ʙᴀɴ ɪssᴜᴇ ✰
- 
- ➲ ɴᴏ ɪᴅ ʙᴀɴ ɪssᴜᴇ ✰
- 
- ➲ᴜɴʟɪᴍɪᴛᴇᴅ ᴅʏɴᴏs ✰
- 
- ➲ ʀᴜɴ 24x7 ʟᴀɢ ғʀᴇᴇ ᴡɪᴛʜᴏᴜᴛ sᴛᴏᴘ ✰
- 
- ► ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ sᴇɴᴅ ss
+✧ ᴡᴀʟᴄᴏᴍᴇ ᴛᴏ ғʟᴇx ʙᴏᴛs ✧
+
+text = f"<b>➲  : <a href='https://t.me/EMXES_COMMUNITY'>𝗘𝗠𝗫𝗘𝗦 𝗖𝗢𝗠𝗠𝗨𝗡𝗜𝗧𝗬</a>\n➲ : <a href='https://t.me/FleX_Bots_News'>𝗙𝗟𝗘𝗫 𝗕𝗢𝗧𝗦 𝗨𝗣𝗗𝗔𝗧𝗘</a>\➲ : <a href='https://t.me/Flex_Support_Chat'>𝗙𝗟𝗘𝗫 𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧</a>\n➲ : <a href='https://t.me/EMXES_NETWORK'>𝗘𝗠𝗫𝗘𝗦 𝗡𝗘𝗧𝗪𝗢𝗥𝗞</a>\➲ : <a href='https://t.me/KAMUI_NETWORK'>𝗞𝗔𝗠𝗨𝗜 𝗡𝗘𝗧𝗪𝗢𝗥𝗞</a>\n➲ : <a href='https://t.me/The_Trader_Zone'>𝗪/𝗛 𝗧𝗥𝗔𝗗𝗘 𝗔𝗥𝗘𝗔</a></b>
 **"""
 
 
